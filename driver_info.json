@@ -1,0 +1,20 @@
+{
+    "Jasim Mishra":[{
+    "name" : "Jasim Mishra",
+    "age": 32,
+    "health":[{
+        "Diabetis":"None",
+        "Cholestrol":"None",
+        "Astama":"True",
+        "liquor":"False"
+    }],
+    "relatives":[{
+        "1":"+919768435834",
+        "2":"+919987882211"
+    }],
+    "friend":[{
+        "1":"+919768435834",
+        "2":"+919987882211"
+    }]
+}]
+}

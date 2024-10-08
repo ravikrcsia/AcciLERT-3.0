@@ -1,7 +1,4 @@
 # AcciLERT 3.0
-
-## PPT:-
- It's at accilert.pptx
  
 ## Codes:-
 
